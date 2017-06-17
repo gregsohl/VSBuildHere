@@ -1,5 +1,5 @@
-#VS Build Here
-##Originally by Priyakant Patel
+# VS Build Here
+## Originally by Priyakant Patel
 
 Adds a Windows Explorer extension for building Visual Studio project and solutions. 
 
@@ -12,5 +12,5 @@ The latest files here have been updated to support VS 2008.
 Updated to support VS 2013
 
 ---
-###Installation:
+### Installation:
 Merge the VS7BuildHere\_setup\_reg.reg file into your registry. It adds the file system associations with the two batch files. This provides context menu items for project and solution files for triggering the builds.
